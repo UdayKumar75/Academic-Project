@@ -7,7 +7,9 @@ This project investigates the dispersion of **SOx, NOx, and PM10** pollutants in
 
 📍 **Location**: Ranchi, Jharkhand, India  
 📅 **Duration**: 2019–2023  
-👨‍💻 **Technologies**: MATLAB, Environmental Data Analysis, Machine Learning
+👨‍💻 **Technologies Used**: MATLAB, Machine Learning, Data Normalization, Visualization
+
+> 🚨 All models were developed and trained using **MATLAB** (R2021+ recommended).
 
 ---
 
